@@ -1,0 +1,14 @@
+layout_spectrum: 0.8927408957388252
+typography_spectrum: 0.9826987506821752
+color:
+  brandStrength: 0.26409737463109195
+  lightness: 0.7024040461983532
+  saturation: 0.21083606034517288
+  rhythmicContrast: 0.47055647731758654
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: rough symbols
